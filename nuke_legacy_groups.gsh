@@ -1,4 +1,4 @@
-DRY_RUN = 0;
+DRY_RUN = 1;
 
 grouperSession = GrouperSession.startRootSession();
 
